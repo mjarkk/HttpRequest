@@ -3,12 +3,12 @@ A simple `HTTP Request` package for golang. `GET` `POST` `DELETE` `PUT`
 
 
 
-# Installation
+## Installation
 ```
 go get github.com/kirinlabs/HttpRequest
 ```
 
-# Example
+## Example
 ```go
 package main
 
@@ -43,7 +43,7 @@ func main() {
 }
 ```
 
-# Object Example
+## Object Example
 
 ```go
 package main
